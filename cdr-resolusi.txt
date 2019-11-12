@@ -1,0 +1,4 @@
+Codeir Resolusi
+- Konsisten belajar analist data
+- Menulis blog sehari satu kali
+- Memperdalam bahasa python
