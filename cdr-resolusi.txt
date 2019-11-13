@@ -1,6 +1,6 @@
 Codeir Resolusi
 - Konsisten belajar analist data
-- Menulis blog sehari satu kali
 - Memperdalam bahasa python
 - Membuat design logo codeir
 - Membuat portofolio
+- Menyelesaikan skripsi
